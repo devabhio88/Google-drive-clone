@@ -69,7 +69,7 @@ This project is a simple Google Drive clone that allows users to upload, downloa
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/devabhio88/Google-drive-clone.git
    ```
 
 2. Navigate to the project directory:
